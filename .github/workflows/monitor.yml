@@ -38,7 +38,7 @@ jobs:
         run: mkdir -p dados_monitor
 
       - name: Rodar monitor
-        run: python monitor_acoes.py
+        run: python monitor_b3.py
 
       - name: Mostrar arquivos gerados
         run: |
