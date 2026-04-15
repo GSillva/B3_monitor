@@ -4,7 +4,7 @@ on:
   schedule:
     # 10:07, 11:07, 12:07, 13:07, 14:07, 15:07 e 16:07 no horário de Brasília/João Pessoa
     # GitHub Actions usa UTC no cron, então 10h-16h BRT = 13h-19h UTC
-    - cron: '*/30 13-19 * * 1-5'
+    - cron: '*/15 13-19 * * 1-5'
   workflow_dispatch:
 
 permissions:
