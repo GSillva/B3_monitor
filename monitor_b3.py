@@ -1,7 +1,5 @@
-#Edições: https://github.com/LeomaxFilho
-#Alterações: Mudança do formato de arquivo e adição de resumo do dia
-# -*- coding: utf-8 -*-
-
+#Autores: Gabriel Aguiar (https://github.com/GSillva) e Leomax Filho (https://github.com/LeomaxFilho)
+#Alterações recentes: Mudança do formato de arquivo e adição de resumo do dia
 # -*- coding: utf-8 -*-
 
 import logging
