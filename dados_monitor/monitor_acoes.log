@@ -6264,3 +6264,105 @@
 2026-05-05 18:05:59,133 [INFO] OK 9988.HK
 2026-05-05 18:05:59,612 [INFO] OK 005930.KS
 2026-05-05 18:06:01,017 [INFO] CSVs salvos em 'dados_monitor/' (linhas históricas: 4466)
+2026-05-05 19:49:05,250 [INFO] Execução iniciada em 2026-05-05 16:49:05
+2026-05-05 19:49:05,250 [INFO] Iniciando coleta — 77 tickers
+2026-05-05 19:49:06,124 [INFO] OK ITUB4
+2026-05-05 19:49:06,911 [INFO] OK BBDC4
+2026-05-05 19:49:07,525 [INFO] OK BBDC3
+2026-05-05 19:49:08,608 [INFO] OK BBAS3
+2026-05-05 19:49:09,647 [INFO] OK SANB11
+2026-05-05 19:49:10,380 [INFO] OK BPAC11
+2026-05-05 19:49:11,199 [INFO] OK PETR4
+2026-05-05 19:49:11,853 [INFO] OK PETR3
+2026-05-05 19:49:12,474 [INFO] OK PRIO3
+2026-05-05 19:49:13,073 [INFO] OK CSAN3
+2026-05-05 19:49:13,683 [INFO] OK UGPA3
+2026-05-05 19:49:14,233 [INFO] OK VALE3
+2026-05-05 19:49:14,742 [INFO] OK GGBR4
+2026-05-05 19:49:15,551 [INFO] OK CSNA3
+2026-05-05 19:49:15,806 [ERROR] HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: ELET3.SA"}}}
+2026-05-05 19:49:16,035 [ERROR] $ELET3.SA: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-05 19:49:16,036 [WARNING] fast_info indisponível para ELET3.SA: 'PriceHistory' object has no attribute '_dividends'
+2026-05-05 19:49:16,172 [ERROR] $ELET3.SA: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-05 19:49:16,173 [INFO] OK ELET3
+2026-05-05 19:49:16,705 [ERROR] HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: ELET6.SA"}}}
+2026-05-05 19:49:17,092 [ERROR] $ELET6.SA: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-05 19:49:17,092 [WARNING] fast_info indisponível para ELET6.SA: 'PriceHistory' object has no attribute '_dividends'
+2026-05-05 19:49:17,363 [ERROR] $ELET6.SA: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-05 19:49:17,364 [INFO] OK ELET6
+2026-05-05 19:49:18,012 [INFO] OK CPFE3
+2026-05-05 19:49:18,559 [INFO] OK SBSP3
+2026-05-05 19:49:19,011 [ERROR] $CPLE6.SA: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-05 19:49:19,011 [WARNING] fast_info indisponível para CPLE6.SA: 'PriceHistory' object has no attribute '_dividends'
+2026-05-05 19:49:19,199 [ERROR] HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: CPLE6.SA"}}}
+2026-05-05 19:49:19,479 [ERROR] $CPLE6.SA: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-05 19:49:19,480 [INFO] OK CPLE6
+2026-05-05 19:49:20,101 [INFO] OK ENGI11
+2026-05-05 19:49:20,758 [INFO] OK ABEV3
+2026-05-05 19:49:21,293 [INFO] OK LREN3
+2026-05-05 19:49:22,044 [INFO] OK MGLU3
+2026-05-05 19:49:22,443 [ERROR] $VVAR3.SA: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-05 19:49:22,444 [WARNING] fast_info indisponível para VVAR3.SA: 'PriceHistory' object has no attribute '_dividends'
+2026-05-05 19:49:22,844 [ERROR] $VVAR3.SA: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-05 19:49:22,844 [INFO] OK VVAR3
+2026-05-05 19:49:23,528 [INFO] OK ASAI3
+2026-05-05 19:49:24,149 [INFO] OK PCAR3
+2026-05-05 19:49:24,709 [INFO] OK RDOR3
+2026-05-05 19:49:25,371 [INFO] OK HAPV3
+2026-05-05 19:49:25,995 [INFO] OK FLRY3
+2026-05-05 19:49:26,641 [INFO] OK WEGE3
+2026-05-05 19:49:26,997 [ERROR] $EMBR3.SA: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-05 19:49:26,998 [WARNING] fast_info indisponível para EMBR3.SA: 'PriceHistory' object has no attribute '_dividends'
+2026-05-05 19:49:27,156 [ERROR] HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: EMBR3.SA"}}}
+2026-05-05 19:49:27,479 [ERROR] $EMBR3.SA: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-05 19:49:27,479 [INFO] OK EMBR3
+2026-05-05 19:49:28,080 [INFO] OK TOTS3
+2026-05-05 19:49:28,653 [INFO] OK INTB3
+2026-05-05 19:49:29,297 [INFO] OK RENT3
+2026-05-05 19:49:29,838 [INFO] OK MOVI3
+2026-05-05 19:49:30,491 [INFO] OK RAIL3
+2026-05-05 19:49:31,091 [INFO] OK EZTC3
+2026-05-05 19:49:31,792 [INFO] OK CYRE3
+2026-05-05 19:49:32,133 [ERROR] $CCRO3.SA: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-05 19:49:32,133 [WARNING] fast_info indisponível para CCRO3.SA: 'PriceHistory' object has no attribute '_dividends'
+2026-05-05 19:49:32,436 [ERROR] $CCRO3.SA: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-05-05 19:49:32,437 [INFO] OK CCRO3
+2026-05-05 19:49:33,098 [INFO] OK ECOR3
+2026-05-05 19:49:33,818 [INFO] OK VIVT3
+2026-05-05 19:49:34,572 [INFO] OK TIMS3
+2026-05-05 19:49:35,264 [INFO] OK B3SA3
+2026-05-05 19:49:35,933 [INFO] OK XPBR31
+2026-05-05 19:49:36,699 [INFO] OK SLCE3
+2026-05-05 19:49:37,250 [INFO] OK AGRO3
+2026-05-05 19:49:37,790 [INFO] OK NVDA
+2026-05-05 19:49:38,521 [INFO] OK AAPL
+2026-05-05 19:49:39,301 [INFO] OK MSFT
+2026-05-05 19:49:39,875 [INFO] OK GOOGL
+2026-05-05 19:49:40,432 [INFO] OK AMZN
+2026-05-05 19:49:40,874 [INFO] OK META
+2026-05-05 19:49:41,419 [INFO] OK TSLA
+2026-05-05 19:49:42,276 [INFO] OK AVGO
+2026-05-05 19:49:42,839 [INFO] OK ORCL
+2026-05-05 19:49:43,398 [INFO] OK AMD
+2026-05-05 19:49:43,824 [INFO] OK BRK-B
+2026-05-05 19:49:44,438 [INFO] OK JPM
+2026-05-05 19:49:45,253 [INFO] OK V
+2026-05-05 19:49:45,887 [INFO] OK MA
+2026-05-05 19:49:46,525 [INFO] OK BAC
+2026-05-05 19:49:47,352 [INFO] OK LLY
+2026-05-05 19:49:48,220 [INFO] OK JNJ
+2026-05-05 19:49:48,993 [INFO] OK UNH
+2026-05-05 19:49:49,810 [INFO] OK XOM
+2026-05-05 19:49:50,595 [INFO] OK CVX
+2026-05-05 19:49:51,243 [INFO] OK WMT
+2026-05-05 19:49:51,897 [INFO] OK COST
+2026-05-05 19:49:52,876 [INFO] OK PG
+2026-05-05 19:49:53,563 [INFO] OK TSM
+2026-05-05 19:49:54,174 [INFO] OK ASML
+2026-05-05 19:49:54,689 [INFO] OK SAP
+2026-05-05 19:49:55,385 [INFO] OK TM
+2026-05-05 19:49:56,121 [INFO] OK BABA
+2026-05-05 19:49:56,657 [INFO] OK 2222.SR
+2026-05-05 19:49:57,330 [INFO] OK 9988.HK
+2026-05-05 19:49:57,917 [INFO] OK 005930.KS
+2026-05-05 19:49:59,248 [INFO] CSVs salvos em 'dados_monitor/' (linhas históricas: 4543)
