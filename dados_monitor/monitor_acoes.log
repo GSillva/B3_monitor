@@ -10961,3 +10961,5 @@
 2026-05-21 18:20:58,677 [INFO] OK 9988.HK
 2026-05-21 18:20:59,489 [INFO] OK 005930.KS
 2026-05-21 18:21:01,315 [INFO] CSVs salvos em 'dados_monitor/' (linhas históricas: 7854)
+2026-05-21 20:14:15,766 [INFO] Execução iniciada em 2026-05-21 17:14:15
+2026-05-21 20:14:15,766 [INFO] Fora da janela de coleta. Nenhuma ação executada.
