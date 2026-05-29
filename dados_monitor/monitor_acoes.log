@@ -12904,3 +12904,5 @@
 2026-05-29 19:58:58,436 [INFO] CSVs salvos em 'dados_monitor/' (linhas históricas: 9240)
 2026-05-29 21:52:06,104 [INFO] Execução iniciada em 2026-05-29 18:52:06
 2026-05-29 21:52:06,104 [INFO] Fora da janela de coleta. Nenhuma ação executada.
+2026-05-29 23:00:45,633 [INFO] Execução iniciada em 2026-05-29 20:00:45
+2026-05-29 23:00:45,633 [INFO] Fora da janela de coleta. Nenhuma ação executada.
