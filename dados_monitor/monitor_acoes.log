@@ -15373,3 +15373,105 @@
 2026-06-12 17:17:26,158 [INFO] OK 9988.HK
 2026-06-12 17:17:26,789 [INFO] OK 005930.KS
 2026-06-12 17:17:31,122 [INFO] CSVs salvos em 'dados_monitor/' (linhas históricas: 11011)
+2026-06-12 19:23:43,629 [INFO] Execução iniciada em 2026-06-12 16:23:43
+2026-06-12 19:23:43,629 [INFO] Iniciando coleta — 77 tickers
+2026-06-12 19:23:44,308 [INFO] OK ITUB4
+2026-06-12 19:23:44,876 [INFO] OK BBDC4
+2026-06-12 19:23:45,454 [INFO] OK BBDC3
+2026-06-12 19:23:45,983 [INFO] OK BBAS3
+2026-06-12 19:23:46,530 [INFO] OK SANB11
+2026-06-12 19:23:47,000 [INFO] OK BPAC11
+2026-06-12 19:23:47,464 [INFO] OK PETR4
+2026-06-12 19:23:48,060 [INFO] OK PETR3
+2026-06-12 19:23:48,560 [INFO] OK PRIO3
+2026-06-12 19:23:49,019 [INFO] OK CSAN3
+2026-06-12 19:23:49,495 [INFO] OK UGPA3
+2026-06-12 19:23:49,983 [INFO] OK VALE3
+2026-06-12 19:23:50,504 [INFO] OK GGBR4
+2026-06-12 19:23:51,034 [INFO] OK CSNA3
+2026-06-12 19:23:51,320 [ERROR] HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: ELET3.SA"}}}
+2026-06-12 19:23:51,542 [ERROR] $ELET3.SA: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-06-12 19:23:51,543 [WARNING] fast_info indisponível para ELET3.SA: 'exchangeTimezoneName'
+2026-06-12 19:23:51,727 [ERROR] $ELET3.SA: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-06-12 19:23:51,728 [INFO] OK ELET3
+2026-06-12 19:23:52,111 [ERROR] HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: ELET6.SA"}}}
+2026-06-12 19:23:52,322 [ERROR] $ELET6.SA: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-06-12 19:23:52,323 [WARNING] fast_info indisponível para ELET6.SA: 'exchangeTimezoneName'
+2026-06-12 19:23:52,466 [ERROR] $ELET6.SA: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-06-12 19:23:52,467 [INFO] OK ELET6
+2026-06-12 19:23:52,987 [INFO] OK CPFE3
+2026-06-12 19:23:53,552 [INFO] OK SBSP3
+2026-06-12 19:23:53,871 [ERROR] $CPLE6.SA: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-06-12 19:23:53,872 [WARNING] fast_info indisponível para CPLE6.SA: 'exchangeTimezoneName'
+2026-06-12 19:23:54,007 [ERROR] HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: CPLE6.SA"}}}
+2026-06-12 19:23:54,314 [ERROR] $CPLE6.SA: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-06-12 19:23:54,315 [INFO] OK CPLE6
+2026-06-12 19:23:54,806 [INFO] OK ENGI11
+2026-06-12 19:23:55,340 [INFO] OK ABEV3
+2026-06-12 19:23:55,823 [INFO] OK LREN3
+2026-06-12 19:23:56,353 [INFO] OK MGLU3
+2026-06-12 19:23:56,609 [ERROR] $VVAR3.SA: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-06-12 19:23:56,610 [WARNING] fast_info indisponível para VVAR3.SA: 'exchangeTimezoneName'
+2026-06-12 19:23:57,027 [ERROR] $VVAR3.SA: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-06-12 19:23:57,028 [INFO] OK VVAR3
+2026-06-12 19:23:57,537 [INFO] OK ASAI3
+2026-06-12 19:23:58,119 [INFO] OK PCAR3
+2026-06-12 19:23:58,580 [INFO] OK RDOR3
+2026-06-12 19:23:59,097 [INFO] OK HAPV3
+2026-06-12 19:23:59,537 [INFO] OK FLRY3
+2026-06-12 19:24:00,050 [INFO] OK WEGE3
+2026-06-12 19:24:00,391 [ERROR] $EMBR3.SA: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-06-12 19:24:00,392 [WARNING] fast_info indisponível para EMBR3.SA: 'exchangeTimezoneName'
+2026-06-12 19:24:00,596 [ERROR] HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: EMBR3.SA"}}}
+2026-06-12 19:24:00,838 [ERROR] $EMBR3.SA: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-06-12 19:24:00,839 [INFO] OK EMBR3
+2026-06-12 19:24:01,410 [INFO] OK TOTS3
+2026-06-12 19:24:01,904 [INFO] OK INTB3
+2026-06-12 19:24:02,473 [INFO] OK RENT3
+2026-06-12 19:24:03,152 [INFO] OK MOVI3
+2026-06-12 19:24:03,573 [INFO] OK RAIL3
+2026-06-12 19:24:04,176 [INFO] OK EZTC3
+2026-06-12 19:24:04,660 [INFO] OK CYRE3
+2026-06-12 19:24:05,161 [ERROR] $CCRO3.SA: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-06-12 19:24:05,162 [WARNING] fast_info indisponível para CCRO3.SA: 'exchangeTimezoneName'
+2026-06-12 19:24:05,435 [ERROR] $CCRO3.SA: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-06-12 19:24:05,436 [INFO] OK CCRO3
+2026-06-12 19:24:05,903 [INFO] OK ECOR3
+2026-06-12 19:24:06,421 [INFO] OK VIVT3
+2026-06-12 19:24:06,942 [INFO] OK TIMS3
+2026-06-12 19:24:07,543 [INFO] OK B3SA3
+2026-06-12 19:24:08,028 [INFO] OK XPBR31
+2026-06-12 19:24:08,771 [INFO] OK SLCE3
+2026-06-12 19:24:09,356 [INFO] OK AGRO3
+2026-06-12 19:24:09,867 [INFO] OK NVDA
+2026-06-12 19:24:10,494 [INFO] OK AAPL
+2026-06-12 19:24:11,006 [INFO] OK MSFT
+2026-06-12 19:24:11,467 [INFO] OK GOOGL
+2026-06-12 19:24:11,890 [INFO] OK AMZN
+2026-06-12 19:24:12,377 [INFO] OK META
+2026-06-12 19:24:13,031 [INFO] OK TSLA
+2026-06-12 19:24:13,654 [INFO] OK AVGO
+2026-06-12 19:24:14,179 [INFO] OK ORCL
+2026-06-12 19:24:14,679 [INFO] OK AMD
+2026-06-12 19:24:15,194 [INFO] OK BRK-B
+2026-06-12 19:24:15,835 [INFO] OK JPM
+2026-06-12 19:24:16,375 [INFO] OK V
+2026-06-12 19:24:16,862 [INFO] OK MA
+2026-06-12 19:24:17,374 [INFO] OK BAC
+2026-06-12 19:24:18,131 [INFO] OK LLY
+2026-06-12 19:24:18,807 [INFO] OK JNJ
+2026-06-12 19:24:19,323 [INFO] OK UNH
+2026-06-12 19:24:19,946 [INFO] OK XOM
+2026-06-12 19:24:20,532 [INFO] OK CVX
+2026-06-12 19:24:21,222 [INFO] OK WMT
+2026-06-12 19:24:21,750 [INFO] OK COST
+2026-06-12 19:24:22,372 [INFO] OK PG
+2026-06-12 19:24:22,871 [INFO] OK TSM
+2026-06-12 19:24:23,355 [INFO] OK ASML
+2026-06-12 19:24:23,883 [INFO] OK SAP
+2026-06-12 19:24:24,396 [INFO] OK TM
+2026-06-12 19:24:24,880 [INFO] OK BABA
+2026-06-12 19:24:25,392 [INFO] OK 2222.SR
+2026-06-12 19:24:25,937 [INFO] OK 9988.HK
+2026-06-12 19:24:26,522 [INFO] OK 005930.KS
+2026-06-12 19:24:29,490 [INFO] CSVs salvos em 'dados_monitor/' (linhas históricas: 11088)
